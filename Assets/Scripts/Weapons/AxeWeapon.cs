@@ -6,10 +6,11 @@ public class AxeWeapon : MonoBehaviour, IWeaponReload
 {
     public GameObject axe;
     private bool _loaded = false;
+    private bool _isEquip = false;
 
     public void Shoot()
     {
-        if (axe != null && _loaded)
+        if (axe != null && _loaded && _isEquip)
         {
             GameObject curAxe = Instantiate(axe, transform.position, new Quaternion());
             ProjectileAxe scAxe = curAxe.GetComponent<ProjectileAxe>();
@@ -26,5 +27,10 @@ public class AxeWeapon : MonoBehaviour, IWeaponReload
     public void Reload()
     {
         _loaded = true;
+    }
+
+    public void Equip()
+    {
+        _isEquip = true;
     }
 }
