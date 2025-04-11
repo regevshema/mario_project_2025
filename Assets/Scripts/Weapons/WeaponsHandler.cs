@@ -15,7 +15,7 @@ public class WeaponsHandler : MonoBehaviour
 
     private void ActivateWeapon()
     {
-        if (Input.GetKeyDown(KeyCode.C) && fireballWeapon != null)
+        if (Input.GetKeyDown(KeyCode.LeftControl) && fireballWeapon != null)
             fireballWeapon.Shoot();
         if (Input.GetKeyDown(KeyCode.Z) && axeWeapon != null)
             axeWeapon.Reload();

@@ -14,7 +14,6 @@ public class FireFlowerController : MonoBehaviour
             this.gameObject.SetActive(false);
             col.gameObject.GetComponent<PlayerPowerUp>().CollectPowerUp(new FireFlowerPowerUp());
             //Implement Power Up
-            
         }
     }
 }
