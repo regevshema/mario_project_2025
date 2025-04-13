@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FireballWeapon : MonoBehaviour, IUseableWeapon
+public class FireballWeapon : MonoBehaviour, IUseableWeapon 
 {
     public GameObject fireball;
     private bool _isEquip = false;
+
 
 
     public void Shoot()
