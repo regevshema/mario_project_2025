@@ -20,6 +20,7 @@ public class SC_Death : MonoBehaviour
             Debug.Log("Mario Collision!");
             //if(col.gameObject.GetComponent<SC_Player>() != null)
             //    col.gameObject.GetComponent<SC_Player>().ResetMarioPosition();
+            col.gameObject.GetComponent<PlayerLife>().RemoveLife(new LossLife());
 
             if (OnSpikeCollision != null)
                 OnSpikeCollision();

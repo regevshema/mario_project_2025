@@ -16,7 +16,7 @@ public class SC_Floor : MonoBehaviour
 
             float _playerY = col.gameObject.transform.position.y;   
             float _tileY = transform.position.y;
-
+            
             Debug.Log(_playerY + " " + _tileY);
             if (_playerY > _tileY + 0.45f)
             {
