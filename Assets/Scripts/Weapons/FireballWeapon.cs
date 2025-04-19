@@ -33,4 +33,9 @@ public class FireballWeapon : MonoBehaviour, IUseableWeapon
     {
         _isEquip = true;
     }
+
+    public void EnemyShoot() {
+        Equip();
+        Shoot();
+    }
 }

@@ -4,5 +4,5 @@ using UnityEngine;
 
 public interface ILifeRemover 
 {
-    public void RemoveLife(GameObject playerLife);
+    public void RemoveLife(GameObject playerLife,int amount = 1);
 }

@@ -27,11 +27,13 @@ public class GameOverManager : MonoBehaviour
     private void OnEnable()
     {
         MarioLifeManager.OnGameOverEvent += ShowGameOver;
+        EndTheGame.OnGameOverEvent += ShowGameOver;
     }
     
     private void OnDisable()
     {
         MarioLifeManager.OnGameOverEvent -= ShowGameOver;
+        EndTheGame.OnGameOverEvent -= ShowGameOver;
     }
     public void ShowGameOver()
     {

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|c:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\cameramovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\cameramovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|c:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\restartworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\restartworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,84 +15,44 @@
       "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\sc_coinsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_coinsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|c:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\keycollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\keycollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\mariolifemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mariolifemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|c:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\turtuleinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\turtuleinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\sc_coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|c:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\greenturtleinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\greenturtleinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\lifeaddeditems\\mashroomlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lifeaddeditems\\mashroomlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|c:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\axehitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\axehitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\controller\\mashroomgrabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|c:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\fireballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\fireballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|c:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\spinylife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\spinylife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|c:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\enemymovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|c:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\controller\\mashroomgrabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\mashroomgrabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\controller\\spinygrabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\spinygrabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\sc_death.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_death.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\decreaselife\\losslife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\decreaselife\\losslife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\controller\\fireflowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\fireflowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\resetposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resetposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\playerlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\controller\\axegrabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|c:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\controller\\axegrabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\axegrabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\interfaces\\ilifeadder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\ilifeadder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\interfaces\\iliferemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\iliferemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\weapons\\fireballweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\fireballweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\weaponammo\\axeammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|c:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\weaponammo\\axeammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponammo\\axeammo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\interfaces\\iweaponreload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\iweaponreload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\scripts\\sc_ammomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE3E4A7-2786-EA80-D3C1-C0103D917C7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sc_ammomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\assets\\enemymovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\enemymovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -103,68 +67,136 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CameraMovment.cs",
+              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\CameraMovment.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraMovment.cs",
+              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\CameraMovment.cs",
+              "RelativeToolTip": "Assets\\CameraMovment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:38:09.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RestartWorld.cs",
               "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\RestartWorld.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RestartWorld.cs",
               "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\RestartWorld.cs",
               "RelativeToolTip": "Assets\\Scripts\\RestartWorld.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T17:03:20.392Z",
+              "WhenOpened": "2025-04-19T15:37:33.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SC_CoinsManager.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\SC_CoinsManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SC_CoinsManager.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\SC_CoinsManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SC_CoinsManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T16:26:58.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "GameOverManager.cs",
               "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\GameOverManager.cs",
               "RelativeDocumentMoniker": "Assets\\GameOverManager.cs",
               "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\GameOverManager.cs",
               "RelativeToolTip": "Assets\\GameOverManager.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwC4AAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T16:08:41.53Z",
+              "WhenOpened": "2025-04-19T15:36:39.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MarioLifeManager.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\MarioLifeManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MarioLifeManager.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\MarioLifeManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MarioLifeManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAiAAAA",
+              "Title": "KeyCollect.cs",
+              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\KeyCollect.cs",
+              "RelativeDocumentMoniker": "Assets\\KeyCollect.cs",
+              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\KeyCollect.cs",
+              "RelativeToolTip": "Assets\\KeyCollect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T15:36:38.986Z"
+              "WhenOpened": "2025-04-19T15:35:11.474Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LossLife.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\DecreaseLife\\LossLife.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DecreaseLife\\LossLife.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\DecreaseLife\\LossLife.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DecreaseLife\\LossLife.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "turtuleInit.cs",
+              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\turtuleInit.cs",
+              "RelativeDocumentMoniker": "Assets\\turtuleInit.cs",
+              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\turtuleInit.cs",
+              "RelativeToolTip": "Assets\\turtuleInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T15:33:44.214Z"
+              "WhenOpened": "2025-04-19T15:33:38.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GreenTurtleInit.cs",
+              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\GreenTurtleInit.cs",
+              "RelativeDocumentMoniker": "Assets\\GreenTurtleInit.cs",
+              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\GreenTurtleInit.cs",
+              "RelativeToolTip": "Assets\\GreenTurtleInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:29:50.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "AxeHitController.cs",
+              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\AxeHitController.cs",
+              "RelativeDocumentMoniker": "Assets\\AxeHitController.cs",
+              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\AxeHitController.cs",
+              "RelativeToolTip": "Assets\\AxeHitController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:28:42.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FireBallController.cs",
+              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\FireBallController.cs",
+              "RelativeDocumentMoniker": "Assets\\FireBallController.cs",
+              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\FireBallController.cs",
+              "RelativeToolTip": "Assets\\FireBallController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:27:32.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpinyLife.cs",
+              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\SpinyLife.cs",
+              "RelativeDocumentMoniker": "Assets\\SpinyLife.cs",
+              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\SpinyLife.cs",
+              "RelativeToolTip": "Assets\\SpinyLife.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:26:31.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyMovment.cs",
+              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\EnemyMovment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMovment.cs",
+              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\EnemyMovment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyMovment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:25:12.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MashroomGrabController.cs",
               "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Controller\\MashroomGrabController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\MashroomGrabController.cs",
@@ -172,199 +204,34 @@
               "RelativeToolTip": "Assets\\Scripts\\Controller\\MashroomGrabController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:11:48.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SC_Coin.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\SC_Coin.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SC_Coin.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\SC_Coin.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SC_Coin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:39:09.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MashroomLP.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\LifeAddedItems\\MashroomLP.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LifeAddedItems\\MashroomLP.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\LifeAddedItems\\MashroomLP.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LifeAddedItems\\MashroomLP.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T11:58:54.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SC_Death.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\SC_Death.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SC_Death.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\SC_Death.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SC_Death.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T13:35:11.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SpinyGrabController.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Controller\\SpinyGrabController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\SpinyGrabController.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Controller\\SpinyGrabController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Controller\\SpinyGrabController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T13:43:15.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FireFlowerController.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Controller\\FireFlowerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\FireFlowerController.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Controller\\FireFlowerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Controller\\FireFlowerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T10:58:06.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "EnemyMovment.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\EnemyMovment.cs",
-              "RelativeDocumentMoniker": "Assets\\EnemyMovment.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\EnemyMovment.cs",
-              "RelativeToolTip": "Assets\\EnemyMovment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:57:14.709Z"
+              "WhenOpened": "2025-04-19T15:23:05.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ResetPosition.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\ResetPosition.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ResetPosition.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\ResetPosition.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ResetPosition.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T08:44:26.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:58:20.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PlayerLife.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\PlayerLife.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerLife.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\PlayerLife.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerLife.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T08:42:00.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ILifeRemover.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Interfaces\\ILifeRemover.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\ILifeRemover.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Interfaces\\ILifeRemover.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\ILifeRemover.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T11:53:26.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ILifeAdder.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Interfaces\\ILifeAdder.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\ILifeAdder.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Interfaces\\ILifeAdder.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\ILifeAdder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T11:54:38.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "AxeGrabController.cs",
               "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Controller\\AxeGrabController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\AxeGrabController.cs",
               "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Controller\\AxeGrabController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Controller\\AxeGrabController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T14:58:10.713Z"
+              "WhenOpened": "2025-04-19T15:21:04.285Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FireballWeapon.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Weapons\\FireballWeapon.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\FireballWeapon.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Weapons\\FireballWeapon.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapons\\FireballWeapon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T10:55:21.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 12,
               "Title": "AxeAmmo.cs",
               "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\WeaponAmmo\\AxeAmmo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponAmmo\\AxeAmmo.cs",
               "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\WeaponAmmo\\AxeAmmo.cs",
               "RelativeToolTip": "Assets\\Scripts\\WeaponAmmo\\AxeAmmo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAA7wAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T07:44:40.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IWeaponReload.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Interfaces\\IWeaponReload.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\IWeaponReload.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\Interfaces\\IWeaponReload.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\IWeaponReload.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T06:43:58.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SC_AmmoManager.cs",
-              "DocumentMoniker": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\SC_AmmoManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SC_AmmoManager.cs",
-              "ToolTip": "C:\\4rd_year\\gaming_solid\\git_mario\\mario_project_2025\\Assets\\Scripts\\SC_AmmoManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SC_AmmoManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T06:53:49.52Z"
+              "WhenOpened": "2025-04-19T15:12:28.575Z",
+              "EditorCaption": ""
             }
           ]
         }

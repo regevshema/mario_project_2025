@@ -5,25 +5,25 @@ using UnityEngine;
 public class EnemyMovment : MonoBehaviour
 {
     public float speed = 0.5f;
-    public Vector3 endposition;
-    private Vector3 startposition;
-    bool movingLeft;
+    public Vector3 endPosition;
+
+    private Vector3 startPosition;
+    private bool isMovingToEnd = true;
 
     private void Awake()
     {
-        startposition = transform.position;
+        startPosition = transform.position;
     }
-    void FixedUpdate()
+
+    private void FixedUpdate()
     {
-        if (transform.position == startposition)
-            movingLeft = true;
+        Vector3 target = isMovingToEnd ? endPosition : startPosition;
 
-        if (transform.position == endposition)
-            movingLeft = false;
+        transform.position = Vector3.MoveTowards(transform.position, target, speed * Time.deltaTime);
 
-        if (movingLeft)
-            transform.position = Vector3.MoveTowards(transform.position, endposition, speed * Time.deltaTime);
-        else
-            transform.position = Vector3.MoveTowards(transform.position, startposition, speed * Time.deltaTime);
+        if (Vector3.Distance(transform.position, target) < 0.01f)
+        {
+            isMovingToEnd = !isMovingToEnd; 
+        }
     }
 }

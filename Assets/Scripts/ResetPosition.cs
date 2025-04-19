@@ -8,10 +8,15 @@ public class ResetPosition : MonoBehaviour
     private void OnEnable()
     {
         SC_Death.OnSpikeCollision += OnSpikeCollision;
+        FireBallController.OnFireBallController += OnSpikeCollision;
+        AxeHitController.OnAxeHitController += OnSpikeCollision;  
+
     }
     private void OnDisable()
     {
         SC_Death.OnSpikeCollision -= OnSpikeCollision;
+        FireBallController.OnFireBallController -= OnSpikeCollision;
+        AxeHitController.OnAxeHitController -= OnSpikeCollision;
     }
     void Awake()
     {

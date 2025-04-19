@@ -4,7 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - monster
+  - Enemy
+  - ShooterEnemy
+  - SpinyEnemy
+  - Key
   layers:
   - Default
   - TransparentFX

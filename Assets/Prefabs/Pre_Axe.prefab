@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 3128399289799986672}
   - component: {fileID: -3460905289729604622}
   - component: {fileID: 7300533301158722036}
+  - component: {fileID: -830980567701343675}
+  - component: {fileID: 8716859871960235869}
   m_Layer: 0
   m_Name: Pre_Axe
   m_TagString: Untagged
@@ -122,3 +124,31 @@ MonoBehaviour:
   xSpeed: 200
   ySpeed: 300
   destroyTime: 5
+--- !u!58 &-830980567701343675
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 460594579410848658}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.3, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.2
+--- !u!114 &8716859871960235869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 460594579410848658}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20eb501599827634d833692d5bbf79e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
